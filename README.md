@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gauravfeel
-- 👀 I’m interested in Flutter, Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Any Web and App Project
 - 📫 How to reach me gauravfeel@gmail.com
 
